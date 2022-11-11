@@ -1,0 +1,16 @@
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\bin\Debug\net5.0\opentasks.exe
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\bin\Debug\net5.0\opentasks.deps.json
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\bin\Debug\net5.0\opentasks.runtimeconfig.json
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\bin\Debug\net5.0\opentasks.runtimeconfig.dev.json
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\bin\Debug\net5.0\opentasks.dll
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\bin\Debug\net5.0\ref\opentasks.dll
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\bin\Debug\net5.0\opentasks.pdb
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\obj\Debug\net5.0\opentasks.csproj.AssemblyReference.cache
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\obj\Debug\net5.0\opentasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\obj\Debug\net5.0\opentasks.AssemblyInfoInputs.cache
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\obj\Debug\net5.0\opentasks.AssemblyInfo.cs
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\obj\Debug\net5.0\opentasks.csproj.CoreCompileInputs.cache
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\obj\Debug\net5.0\opentasks.dll
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\obj\Debug\net5.0\ref\opentasks.dll
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\obj\Debug\net5.0\opentasks.pdb
+C:\Users\ulviyyamr\Desktop\Code tasks\opentasks\opentasks\obj\Debug\net5.0\opentasks.genruntimeconfig.cache
